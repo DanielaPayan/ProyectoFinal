@@ -1,0 +1,5 @@
+./tracker 5555
+./nodo localhost 5555 localhost 5556 5557
+./nodo localhost 5555 localhost 5558 5559
+./nodo localhost 5555 localhost 5570 5571
+
